@@ -79,7 +79,7 @@ The design was done top-down: first the four screens of the final system were de
 
 Diagram name: **HotelMaster_ERD** (ERDPlus, file `HotelMaster_ERD.erdplus` – can be imported directly into ERDPlus).
 
-![HotelMaster ERD](HotelMaster_ERD.png)
+![HotelMaster ERD](HotelMaster_ERD.jpeg)
 
 **Diagram features used**
 
